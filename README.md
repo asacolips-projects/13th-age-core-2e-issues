@@ -8,4 +8,4 @@ The module can be purchased at https://www.foundryvtt.store/products/13th-age-co
 Bugs can be reported to https://github.com/asacolips-projects/13th-age-core-2e-issues/issues/
 
 ## Changelog
-See CHANGELOG.md or Releases for update release notes
+See [CHANGELOG.md](https://github.com/asacolips-projects/13th-age-core-2e-issues/blob/main/CHANGELOG.md) or Releases for update release notes
